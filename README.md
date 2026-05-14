@@ -29,3 +29,5 @@ Run the game:
 ```bash
 python main.py
 ```
+
+this was my first time trying to build a game like this, and it helped me understand core game development concepts like movement, collision detection & game loops.
